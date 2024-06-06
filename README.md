@@ -13,15 +13,19 @@ Paryatan is a travel planner website designed to offer customized travel package
 ## Services
 
 Paryatan offers a variety of services to ensure a hassle-free travel experience:
-- Flight Services
-- Food and Catering Services
-- Travel Services (Pickup and Drop-off)
-- Hotel Services (Check-in to Check-out)
+- ✈️ Flight Services
+- 🍽️ Food and Catering Services
+- 🚐 Travel Services (Pickup and Drop-off)
+- 🏨 Hotel Services (Check-in to Check-out)
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
+- **Frontend**:
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Backend**:
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ## Setup
 
@@ -43,18 +47,27 @@ To set up the project locally, follow these steps:
 We welcome contributions to improve Paryatan. Please follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-branch
+    ```
 5. Create a pull request.
 
 ## License
 
-This project is not cureently licensed under any License.
+This project is not currently licensed under any license.
 
 ## Contact
 
-For any inquiries or support, please contact us via the [Contact Us] https://www.instagram.com/yeah.yatharth/ page.
+For any inquiries or support, please contact us via the [Contact Us](https://www.instagram.com/yeah.yatharth/) page.
 
 ---
 
