@@ -67,7 +67,7 @@ This project is not currently licensed under any license.
 
 ## Contact
 
-For any inquiries or support, please contact us via the [Contact Us](https://www.instagram.com/yeah.yatharth/) page.
+For any inquiries or support, please contact us via my [Instagram](https://www.instagram.com/yeah.yatharth/) page.
 
 ---
 
