@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Paryatan.git
+    git clone [https://github.com/yourusername/Paryatan.git](https://github.com/Yatharth-Bhavsar/Paryatan---A-Travel-Planner-Website)
     ```
 2. Navigate to the project directory:
     ```bash
